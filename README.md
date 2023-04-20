@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Cristian Trureo</h1>
-<h3 align="center">A passionate frontend developer from Viña del Mar</h3>
+<h3 align="center">A frontend developer & UX/UI designer from Viña del Mar</h3>
 
-- 🌱 I’m currently learning **Java, Javascript, React, MySQL**
-
-- 💬 Ask me about **CSS and UI design**
+```javascript
+const cristian = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "graphic design"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Jquery", "Astro"],
+            css: ["bootstrap", "tailwinds"]
+        },
+        backEnd: ["Node", "Express"],
+        databases: ["MySql", "PostgreSql"],
+    }
+};
+```
 
 - 📫 How to reach me **c.trureo87@gmail.com**
 
