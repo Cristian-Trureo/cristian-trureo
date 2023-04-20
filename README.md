@@ -1,4 +1,4 @@
-![head.png](https://raw.githubusercontent.com/Cristian-Trureo/cristian-trureo/main/portada.png)
+![head.png]()
 
 ```javascript
 const cristian = {
