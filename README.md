@@ -1,5 +1,4 @@
-![head.png](https://raw.githubusercontent.com/Cristian-Trureo/cristian-trureo/main/portadaCVD.png)
-<h3 align="center">A frontend developer & UX/UI designer from Viña del Mar</h3>
+![head.png](https://raw.githubusercontent.com/Cristian-Trureo/cristian-trureo/main/portada.png)
 
 ```javascript
 const cristian = {
