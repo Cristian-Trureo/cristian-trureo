@@ -11,7 +11,9 @@ const cristian = {
         },
         backEnd: ["Node", "Express"],
         databases: ["MySql", "PostgreSql"],
-    }
+        design: ["Figma", "photoshop", "illustrator", "indesign"]      
+    },
+    hobbies: ["photography", "skate", "follow development tutorials"]
 };
 ```
 
