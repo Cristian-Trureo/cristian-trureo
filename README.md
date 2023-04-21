@@ -13,7 +13,7 @@ const cristian = {
         databases: ["MySql", "PostgreSql"],
         design: ["Figma", "photoshop", "illustrator", "indesign"]      
     },
-    hobbies: ["photography", "skate", "follow development tutorials"]
+    hobbies: ["photography", "skate", "doing development tutorials"]
 };
 ```
 
