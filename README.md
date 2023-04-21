@@ -1,5 +1,6 @@
 ![head.png](https://raw.githubusercontent.com/Cristian-Trureo/cristian-trureo/main/portada1.png)
 <h3>A frontend developer & UX/UI designer from Viña del Mar</h3>
+
 ```javascript
 const cristian = {
     pronouns: "He" | "Him",
