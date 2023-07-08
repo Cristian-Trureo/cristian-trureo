@@ -3,7 +3,7 @@
 
 
 
-<img align="right" height="290" src="https://github.com/Cristian-Trureo/cristian-trureo/blob/main/me2.gif"/>
+<img align="right" height="250" src="https://github.com/Cristian-Trureo/cristian-trureo/blob/main/me2.gif"/>
 
     
 ```javascript
